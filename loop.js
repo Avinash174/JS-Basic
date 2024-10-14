@@ -29,3 +29,19 @@ do{
 
 }while(i<0);
 
+
+// for - in loop
+
+const person ={
+    name:'Mosh',
+    age:'43'
+};
+
+for (let key in person){
+    console.log('age is: ',person.age);
+}
+
+// for of loop 
+
+
+
