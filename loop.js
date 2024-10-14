@@ -37,11 +37,23 @@ const person ={
     age:'43'
 };
 
+// Ierate over properties
+
 for (let key in person){
     console.log('age is: ',person.age);
 }
 
 // for of loop 
 
+// interate over item
 
+const colors =['red','green','blue']
+
+for(let color of colors){
+    console.log(color);
+}
+
+// break key word & continue
+
+// change the behaviour of loop
 
