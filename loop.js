@@ -53,7 +53,5 @@ for(let color of colors){
     console.log(color);
 }
 
-// break key word & continue
 
-// change the behaviour of loop
 
