@@ -55,16 +55,26 @@ numbers.forEach((number1) => console.log(number1));
 
 const joined=numbers.join('*');
 console.log(joined);
+console.log('\n');
 
 // sort 
 
 numbers.sort()
 console.log(numbers);
+console.log('\n');
 
 // reverse 
 
 numbers.reverse()
 console.log(numbers);
+console.log('\n');
 
+// filters
+
+const filterd=numbers.filter(n=>n>=0);
+console.log(filterd);
+
+
+// Map Method
 
 
