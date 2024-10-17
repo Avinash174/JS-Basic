@@ -25,3 +25,12 @@ console.log(number.lastIndexOf('avinash'));
 // Reference Type
 
 
+// Removing element 
+
+const a=[1,2,3,4,5,6];
+
+const pop=a.pop();
+
+console.log(a);
+
+
