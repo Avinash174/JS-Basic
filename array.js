@@ -42,3 +42,18 @@ another=[];
 
 console.log(another);
 
+// iterate Array
+
+const numbers = [1, 2,3, 4,5];
+
+// Using a for...of loop
+for (let number1 of numbers) {
+    console.log(number1);
+}
+
+// Using the forEach method correctly
+numbers.forEach(number1 => console.log(number1));
+
+
+
+
