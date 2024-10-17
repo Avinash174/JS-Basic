@@ -33,4 +33,12 @@ const pop=a.pop();
 
 console.log(a);
 
+// emptying an array
+
+let n=[1,2,3,4,5,6,7];
+let another=n;
+
+another=[];
+
+console.log(another);
 
